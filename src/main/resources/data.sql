@@ -1,0 +1,3 @@
+INSERT INTO ACCOUNT (balance, iban, creation_date, cancellation_date) VALUES (100000.00, 'ES9833136531281564392210', current_timestamp(), null);
+INSERT INTO ACCOUNT (balance, iban, creation_date, cancellation_date) VALUES (80000.00, 'ES9888616014223812241566', current_timestamp(), null);
+INSERT INTO ACCOUNT (balance, iban, creation_date, cancellation_date) VALUES (20000.00, 'ES9813714118344371324826', current_timestamp(), null);
